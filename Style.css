@@ -1,0 +1,52 @@
+body {
+    background-image: url(Imagenes/300x600.png);
+    background-size: cover;
+    border: 3px solid white;
+}
+header  {
+    
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    border: 3px solid white;
+}
+#information {
+    background-color: red;
+    margin-left: 50px;
+    margin-right: 50% ;
+    }
+#register {
+        background-color: yellow;
+        width: 200px;
+        box-sizing: border-box;
+    }
+
+#company {
+        background-color: green;
+        margin-left: 50px;
+        margin-right: 50%;
+        h3 {
+            color: red;
+            font-family: ;
+        }
+        .ima {
+            border-radius: 20px;
+        }
+    }
+h5 {
+    color: red;
+}
+
+.face {
+    width: 50px ; height: 50px;
+    border-radius: 20px;
+
+}
